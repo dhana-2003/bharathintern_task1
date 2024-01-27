@@ -1,0 +1,7 @@
+{
+    "scm-buttons.showGitCommitStagedAmend": false,
+    "scm-buttons.showGitCheckout": false,
+    "scm-buttons.showGitCleanAll": false,
+    "scm-buttons.showGitCommitAll": false,
+    "scm-buttons.showGitCommitAllAmend": false
+}
